@@ -1,0 +1,45 @@
+h1{
+  text-align:Center;
+}
+.pricing-container{
+  padding:40px;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  flex-wrap:wrap;
+  gap:30px;
+}
+.pricing-card{
+  display:flex;
+  justify-content:center;
+  flex: 0 0 200px;
+  border:1px solid black;
+  width:250px;
+  padding:10px;
+  text-align:center;
+  background-color:#f0f8ff;
+  transition:all 0.3s;
+  cursor:pointer;
+}
+.pricing-card:hover{
+  transform:scale(1.1);
+  box-shadow:8px 8px rgba(0,0,0,1);
+}
+hr{
+  width:75%;
+}
+.info{
+  text-align:left;
+  width:180px;
+}
+.btn{
+  cursor:pointer;
+  margin:20px 0px 10px 0px;
+  color:#000;
+  background-color:#f1be32;
+  border:none;
+  padding:8px 16px;
+  width:75%;
+  font-size:13px;
+  font-weight:bold;
+}
