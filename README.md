@@ -29,10 +29,12 @@ A clean and responsive pricing plans layout built using pure HTML and CSS. This 
 
 📂 Project Structure
 
+```
 ├── index.html
 ├── index.css
 ├── assets/
 │   └── favicon.png
+```
 
 ---
 
@@ -51,16 +53,17 @@ A clean and responsive pricing plans layout built using pure HTML and CSS. This 
 2. Open `index.html` in your browser
 
 ---
+
 ✨ Future Improvements
 
 * Add mobile responsiveness improvements
 * Include dark mode
 * Add toggle for monthly/yearly pricing
-* Convert into a React component
+* Convert into React component
 
 ---
 
-## 📄 License
+📄 License
 
 This project is open-source and free to use.
 
