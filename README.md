@@ -6,7 +6,7 @@ A clean and responsive pricing plans layout built using pure HTML and CSS. This 
 
 🚀 Demo
 
-🔗 Live Demo: 
+🔗 Live Demo: https://harshanrepo.github.io/FlexiPrice-UI/
 
 ---
 
